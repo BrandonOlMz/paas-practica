@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi aplicación PaaS</title>
+</head>
+<body>
+
+<h1>Aplicación desplegada en Render</h1>
+<p>Práctica 1.3 - Modelos de servicio en la nube</p>
+<p>Alumno: Brandon OlMz</p>
+
+</body>
+</html>
